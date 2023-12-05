@@ -1,0 +1,4 @@
+January:733.75
+February:510.625
+March:411.875
+April:588.125

@@ -1,0 +1,21 @@
+FIP-809,Volkswagen i3,O,0,,50,R
+RJB-123,BMW mini,P,200,65.00,R
+RJB-123,BMW mini,P,200,65.00,R
+WYN-482,Ford Fiesta,O,0,40,R
+BKV-943,Ford Ikon,P,150,60,R
+JMB-535,Ford Flex,O,0,50,R
+XJY-604,Hyundai Getz,O,0,45.00,R
+RXD-376,Hyundai Creta,O,0,60,R
+RJB-123,BMW mini,P,200,65.00,R
+WYN-482,Ford Fiesta,O,0,40,R
+DFG-456,Audi R10,P,75,,65,A
+FGR-842,Suzuki H90,P,75,,65,A
+DFG-456,Suzuki K9,P,45,,55,A
+GHJ-489,Toyota N9,O,45,,67,A
+
+BKV-943,Ford Ikon
+BKV-943,Ford Ikon
+df,fd
+fd,fd
+DRT-503,BMW C7
+GHB-890,BMW U9
