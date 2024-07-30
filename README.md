@@ -1,1 +1,1 @@
-# Vehicle_Rental_System
+This is a vehicle rental system developed using Python. The system allows users to rent a vehicle, remove a vehicle from the inventory, and add a vehicle to the system. It was created as part of a university project.
